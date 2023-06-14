@@ -15,3 +15,7 @@ Made an interactive dashboard depending on the important KPI and metrics.
 
 The following dashboard can give a good insights on patterns and senarios for attrition in given organization
 
+![] 
+![]
+![]
+![]
