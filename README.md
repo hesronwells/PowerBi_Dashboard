@@ -13,9 +13,34 @@ which includes but not limited to
 
 Made an interactive dashboard depending on the important KPI and metrics. 
 
-The following dashboard can give a good insights on patterns and senarios for attrition in given organization
+The following is a screenshot of dashboard which give a good insights on patterns and senarios for attrition in given organization.
 
-![] 
-![]
-![]
-![]
+It contains graphs based on KPI such as
+<br/>
+1.Attrition by Education<br/>
+2.Attrition by Age<br/>
+3.Attrition by Salary slab<br/>
+4.Attrition by years in company (The graph in image says attrition by Education, I'll soon rename the title and upload new correct screenshot. Thanks for highlighting the error)<br/>
+5.Attrition by Job Role<br/>
+6.Attrition by gender<br/>
+<br/>
+![](Screenshots/dashboard.png)
+
+
+Let's look into more details. Added a high-level slider on department. So, following are the screenshot of the dashboard based on three departments
+
+1.Human Resources
+<br/>
+![](Screenshots/HR.png)
+
+2. Research and development
+
+![](Screenshots/RnD.png)
+
+3.Sales
+<br/>
+![](Screenshots/sales,powerbi.png)
+
+
+<br/>Please feel free to reach out to me incase you have any queries or suggestion on dashboard
+<br/>Thank-you. 
